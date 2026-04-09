@@ -18,17 +18,28 @@
     width: 300px;
     min-height: 400px;
     margin: 20px;
+    padding: 10px;              
     border: 2px dashed #fff;
+    border-radius: 10px;
 }
 
 .list{
     background: #e91e63;
     height: 60px;
-    width: 300px;
+    width: 260px;           
+    margin: 10px auto;       
+    padding: 0 10px;           
+    border-radius: 0px;        
     color: #fff;
     display: flex;
     align-items: center;
     cursor: grab;
+    transition: 0.2s;
+}
+
+.list:active{
+    cursor: grabbing;
+    transform: scale(1.03);
 }
 .list img{
     width: 10px;
