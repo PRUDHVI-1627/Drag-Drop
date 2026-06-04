@@ -3,6 +3,8 @@
 A simple drag-and-drop project where users can move list items from one
 container to another using pure JavaScript.
 
+<img width="901" height="595" alt="Drag Drop Preview" src="https://github.com/user-attachments/assets/330d9a73-a14b-4dc0-9f78-087fb5acc6a2" />
+
 ------------------------------------------------------------------------
 
 ## 🚀 Features
